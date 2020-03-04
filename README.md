@@ -5,7 +5,7 @@ A 2020 Spring course of Department of Economics, NTU
 ## Course information
 
 - [Website (NTU Cool)](https://cool.ntu.edu.tw/courses/1195)
-- The lecturer is [Assistant Professor Yun-Cheng Tsai](https://peculab.org).
+- The lecturer is [Assistant Professor Yun-Cheng Tsai](http://peculab.org).
 
 ## `$ whoami`
 
